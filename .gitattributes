@@ -1,0 +1,5 @@
+Concrete[[:space:]]textures[[:space:]]pack/** filter=lfs diff=lfs merge=lfs -text
+StudioNewPunch/** filter=lfs diff=lfs merge=lfs -text
+everything[[:space:]]else/** filter=lfs diff=lfs merge=lfs -text
+OVR/** filter=lfs diff=lfs merge=lfs -text
+guns.unitypackage filter=lfs diff=lfs merge=lfs -text
